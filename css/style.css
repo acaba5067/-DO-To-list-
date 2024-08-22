@@ -98,3 +98,8 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+@media(max-width:768px){
+    .container{
+        width: 750px;
+    }
+}
